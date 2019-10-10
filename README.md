@@ -1,1 +1,4 @@
 # pedro_ivo
+	-- USAR A MERDA DO PYCHARM
+	-- PYTHON 3.6
+	-- ESTUDA ESSA MERDA
